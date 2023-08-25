@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/joshua-sapalaran/static/css/main.570c04d3.css",
-    "main.js": "/joshua-sapalaran/static/js/main.ff02d7a9.js",
+    "main.js": "/joshua-sapalaran/static/js/main.8422ba19.js",
     "static/media/josh.jpg": "/joshua-sapalaran/static/media/josh.bd72b2d9406f05c7f8ef.jpg",
     "index.html": "/joshua-sapalaran/index.html",
     "main.570c04d3.css.map": "/joshua-sapalaran/static/css/main.570c04d3.css.map",
-    "main.ff02d7a9.js.map": "/joshua-sapalaran/static/js/main.ff02d7a9.js.map"
+    "main.8422ba19.js.map": "/joshua-sapalaran/static/js/main.8422ba19.js.map"
   },
   "entrypoints": [
     "static/css/main.570c04d3.css",
-    "static/js/main.ff02d7a9.js"
+    "static/js/main.8422ba19.js"
   ]
 }
