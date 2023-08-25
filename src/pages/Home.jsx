@@ -99,8 +99,8 @@ function Home() {
                       PROJECTS
                     </Typography>
                   </ListItem>
-                  <LinkItem pageName="Testimonials" url="testimonials" />
-                  <LinkItem pageName="Portfolio" url="portfolio" />
+                  <LinkItem pageName="Testimonials" url="#/testimonials" />
+                  <LinkItem pageName="Portfolio" url="#/portfolio" />
                 </List>
               </Grid>
               <Grid item xs={6}>

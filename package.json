@@ -1,6 +1,6 @@
 {
   "homepage": "https://severus7.github.io/joshua-sapalaran",
-  "proxy": "http://localhost:3000",
+  "proxy": "http://localhost:3000/#",
   "name": "personal-site",
   "version": "0.1.0",
   "private": true,
